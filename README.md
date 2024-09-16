@@ -10,9 +10,9 @@ python3 zit.py
 
 ![Plankton Example](composited.png)
 
-![Lovely Example](plankt_oct19.png)
+![Lovely Example](plankt_oct19.jpg)
 
-![Lovely Example](plankt_oct06.png)
+![Lovely Example](plankt_oct06.jpg)
 
 # Documentation
 
